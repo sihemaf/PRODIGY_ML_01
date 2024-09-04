@@ -30,6 +30,7 @@ The goal of this task is to develop a linear regression model that accurately pr
 3. **Run the Jupyter Notebook**:
    ```bash
   jupyter notebook notebook.ipynb
+  
 4. **Review results**:Check the results and analysis in the provided notebook
 ### **Acknowledgements**  
 -The dataset is sourced from Kaggle: House Prices Dataset
