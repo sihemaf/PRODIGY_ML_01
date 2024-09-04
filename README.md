@@ -29,10 +29,11 @@ The goal of this task is to develop a linear regression model that accurately pr
    pip install -r requirements.txt  
 3. **Run the Jupyter Notebook**:
    ```bash
-  jupyter notebook notebook.ipynb
-  
+   jupyter notebook notebook.ipynb
+   
 4. **Review results**:Check the results and analysis in the provided notebook
 ### **Acknowledgements**  
--The dataset is sourced from Kaggle: House Prices Dataset
--Thanks to Prodigy InfoTech for providing this opportunity to work on real-world machine learning problems.
+
+- **Dataset**: The dataset used for this project is sourced from Kaggle: [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
+- **Special Thanks**: A heartfelt thank you to Prodigy InfoTech for providing this opportunity to work on real-world machine learning challenges.
 
