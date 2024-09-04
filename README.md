@@ -1,4 +1,4 @@
-## **PRODIGY_DS_01: Linear Regression for House Prices**
+## **PRODIGY_ML_01: Linear Regression for House Prices**
 
 ### **Description**
 
