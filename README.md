@@ -23,7 +23,7 @@ The goal of this task is to develop a linear regression model that accurately pr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/PRODIGY_DS_01.git
+   git clone https://github.com/sihemaf/PRODIGY_ML_01.git
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt  
